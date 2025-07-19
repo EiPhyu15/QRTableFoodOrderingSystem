@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace QRTableFoodOrderingSystem.Models
 {
     public class QRCode
     {
+        [Key]
         public int QRId {  get; set; }
         public int TableNumber {  get; set; }
         public string Code {  get; set; }

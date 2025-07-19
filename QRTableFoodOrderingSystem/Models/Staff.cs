@@ -1,7 +1,10 @@
-﻿namespace QRTableFoodOrderingSystem.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace QRTableFoodOrderingSystem.Models
 {
     public class Staff
     {
+        [Key]
         public int StaffId {  get; set; }
         public string FName {  get; set; }
         public string LName {  get; set; }

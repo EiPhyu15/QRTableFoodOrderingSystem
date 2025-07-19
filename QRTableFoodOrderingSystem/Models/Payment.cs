@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace QRTableFoodOrderingSystem.Models
 {
     public class Payment
     {
+        [Key]
         public int PaymentId {  get; set; }
         public double Amount {  get; set; }
         public string PaymentMethod {  get; set; }

@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.Identity.Client;
 
 namespace QRTableFoodOrderingSystem.Models
 {
     public class Receipt
     {
+        [Key]
         public int ReceiptId {  get; set; }
         public double TotalAmount {  get; set; }
         public DateOnly ReceiptDate {  get; set; }

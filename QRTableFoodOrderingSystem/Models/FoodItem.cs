@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.Identity.Client;
 
 namespace QRTableFoodOrderingSystem.Models
 {
     public class FoodItem
     {
+        [Key]
         public int FoodItemId {  get; set; }
         public string FoodName { get; set;}
         public string FoodDescription { get; set;}
