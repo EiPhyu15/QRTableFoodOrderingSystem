@@ -35,6 +35,10 @@ namespace QRTableFoodOrderingSystem.Services
             mailMessage.To.Add(email.ToEmail);
 
             await smtpClient.SendMailAsync(mailMessage);
+
         }
     }
 }
+
+    
+
