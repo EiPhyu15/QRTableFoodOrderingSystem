@@ -18,6 +18,12 @@ namespace QRTableFoodOrderingSystem.Controllers
         {
             _context = context;
         }
+        public async Task<IActionResult> MyProfile()
+        {
+            string username = User.Identity.Name;
+            var getProfile = _context.Staff.Where(c => c.Email == username).FirstOrDefault();
+            return View(getProfile);
+        }
 
         // GET: Staffs
         public async Task<IActionResult> Index()
@@ -56,12 +62,12 @@ namespace QRTableFoodOrderingSystem.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("StaffId,FName,LName,Email,Address")] Staff staff)
         {
-            if (ModelState.IsValid)
-            {
+            //if (ModelState.IsValid)
+            //{
                 _context.Add(staff);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
+            //}
             return View(staff);
         }
 

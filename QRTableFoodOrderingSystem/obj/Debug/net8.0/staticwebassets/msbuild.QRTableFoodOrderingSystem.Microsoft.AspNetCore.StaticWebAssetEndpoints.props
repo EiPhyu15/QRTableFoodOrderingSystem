@@ -24,6 +24,66 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Jul 2025 01:55:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/burger2.0jp9fj5mkt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\burger2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0jp9fj5mkt"},{"Name":"integrity","Value":"sha256-fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4="},{"Name":"label","Value":"_content/QRTableFoodOrderingSystem/images/burger2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"698071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:16:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/burger2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\burger2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"698071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:16:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/drink1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\drink1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"329599"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:33:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/drink1.zbny4txncw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\drink1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zbny4txncw"},{"Name":"integrity","Value":"sha256-n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc="},{"Name":"label","Value":"_content/QRTableFoodOrderingSystem/images/drink1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"329599"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:33:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/homepage1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\homepage1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"263899"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 13:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/homepage1.xa37ckpwtm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\homepage1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xa37ckpwtm"},{"Name":"integrity","Value":"sha256-hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg="},{"Name":"label","Value":"_content/QRTableFoodOrderingSystem/images/homepage1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"263899"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 13:45:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/pizza4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pizza4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"100767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:33:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/pizza4.o5hl0ui7ic.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pizza4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o5hl0ui7ic"},{"Name":"integrity","Value":"sha256-5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY="},{"Name":"label","Value":"_content/QRTableFoodOrderingSystem/images/pizza4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"100767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:33:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/salad33.90i95a3pz4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\salad33.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"90i95a3pz4"},{"Name":"integrity","Value":"sha256-lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ="},{"Name":"label","Value":"_content/QRTableFoodOrderingSystem/images/salad33.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"238010"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:35:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/images/salad33.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\salad33.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"238010"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 31 Jul 2025 14:35:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/QRTableFoodOrderingSystem/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

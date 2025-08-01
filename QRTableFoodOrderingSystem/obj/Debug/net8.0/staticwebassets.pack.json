@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\burger2.jpg",
+      "PackagePath": "staticwebassets\\images\\burger2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\drink1.jpg",
+      "PackagePath": "staticwebassets\\images\\drink1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\homepage1.png",
+      "PackagePath": "staticwebassets\\images\\homepage1.png"
+    },
+    {
+      "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\pizza4.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\salad33.jpg",
+      "PackagePath": "staticwebassets\\images\\salad33.jpg"
+    },
+    {
       "Id": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XpS4Yl7waPTa4pvBi+pijmtgSUp73b7M96nXzNSKgQw=",
+  "Hash": "HOxzN7ZNt3iYndJjn2gDXQRQxxYCo0NsAR+mB7oZUWs=",
   "Source": "QRTableFoodOrderingSystem",
   "BasePath": "_content/QRTableFoodOrderingSystem",
   "Mode": "Default",
@@ -1359,6 +1359,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\burger2.jpg",
+      "SourceId": "QRTableFoodOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\",
+      "BasePath": "_content/QRTableFoodOrderingSystem",
+      "RelativePath": "images/burger2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0jp9fj5mkt",
+      "Integrity": "fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\burger2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\drink1.jpg",
+      "SourceId": "QRTableFoodOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\",
+      "BasePath": "_content/QRTableFoodOrderingSystem",
+      "RelativePath": "images/drink1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbny4txncw",
+      "Integrity": "n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\drink1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\homepage1.png",
+      "SourceId": "QRTableFoodOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\",
+      "BasePath": "_content/QRTableFoodOrderingSystem",
+      "RelativePath": "images/homepage1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xa37ckpwtm",
+      "Integrity": "hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\homepage1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\pizza4.jpg",
+      "SourceId": "QRTableFoodOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\",
+      "BasePath": "_content/QRTableFoodOrderingSystem",
+      "RelativePath": "images/pizza4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o5hl0ui7ic",
+      "Integrity": "5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pizza4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\salad33.jpg",
+      "SourceId": "QRTableFoodOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\",
+      "BasePath": "_content/QRTableFoodOrderingSystem",
+      "RelativePath": "images/salad33#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90i95a3pz4",
+      "Integrity": "lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\salad33.jpg"
     },
     {
       "Identity": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\js\\site.js",
@@ -4961,6 +5066,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger2.0jp9fj5mkt.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\burger2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jp9fj5mkt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/burger2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger2.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\burger2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFQeTtfsvccnDkgHbQn6S2XzBAyrvD68QqLPzK6mrL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/drink1.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\drink1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/drink1.zbny4txncw.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\drink1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbny4txncw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/drink1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n5Ko//XqBlBZ0Ie66FmHQMMG4/rOuX4GmOn1MGezOAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage1.png",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\homepage1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 13:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage1.xa37ckpwtm.png",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\homepage1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 13:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xa37ckpwtm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepage1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwfNWtpzsFPcIVeEOLnloLsc2KLaAC6nvBd8JxyZfHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/pizza4.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\pizza4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pizza4.o5hl0ui7ic.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\pizza4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5hl0ui7ic"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pizza4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5J2cmaQbvK74tVA/dj14f2niE0SmIKhcYL0FMaDPubY="
+        }
+      ]
+    },
+    {
+      "Route": "images/salad33.90i95a3pz4.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\salad33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90i95a3pz4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/salad33.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/salad33.jpg",
+      "AssetFile": "C:\\Users\\Thin Ei Phyu\\source\\repos\\QRTableFoodOrderingSystem\\QRTableFoodOrderingSystem\\wwwroot\\images\\salad33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 31 Jul 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lz8K93xIxIHLPOvL4B9QFZM1YpCX/AH0ZKHG6QAa6oQ="
         }
       ]
     },

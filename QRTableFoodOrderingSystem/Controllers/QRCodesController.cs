@@ -25,6 +25,7 @@ namespace QRTableFoodOrderingSystem.Controllers
             var applicationDbContext = _context.QRCode.Include(q => q.Table);
             return View(await applicationDbContext.ToListAsync());
         }
+       
 
         // GET: QRCodes/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -48,19 +49,23 @@ namespace QRTableFoodOrderingSystem.Controllers
         // GET: QRCodes/Create
         public IActionResult Create()
         {
-            ViewData["TableNumber"] = new SelectList(_context.Set<Table>(), "TableNumber", "TableNumber");
+            ViewBag.TableList = _context.Table.Where(t => t.IsAvaliable).Select(t => new SelectListItem{
+                Value = t.TableNumber.ToString(), Text = $"Table {t.TableNumber}"}).ToList();
             return View();
+            
         }
-
-        // POST: QRCodes/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+       
+            // POST: QRCodes/Create
+            // To protect from overposting attacks, enable the specific properties you want to bind to.
+            // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+            [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("QRId,TableNumber,Code,QRGenerateDate")] QRCode qRCode)
         {
             if (ModelState.IsValid)
             {
+                qRCode.QRGenerateDate = DateTime.Now;
+                qRCode.Code= $"https://localhost:7122/{qRCode.TableNumber}";
                 _context.Add(qRCode);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

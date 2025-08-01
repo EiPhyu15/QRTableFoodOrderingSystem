@@ -44,26 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems1/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zMVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems1/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zMVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems1/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zMVxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems1/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zMVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems1/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zMVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/FoodItems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -278,6 +258,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/Staffs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/Staffs/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZzXE15UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Thin Ei Phyu/source/repos/QRTableFoodOrderingSystem/QRTableFoodOrderingSystem/Views/Tables/Create.cshtml]

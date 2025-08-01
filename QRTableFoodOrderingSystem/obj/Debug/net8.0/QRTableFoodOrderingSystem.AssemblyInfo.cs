@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QRTableFoodOrderingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+573d56dd34ca2ee89fbf39a6fbde450ce385f88d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652e86e5b7169a93c3383c84c052d000ecbbe9d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("QRTableFoodOrderingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QRTableFoodOrderingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

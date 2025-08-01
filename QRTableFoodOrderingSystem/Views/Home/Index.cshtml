@@ -1,53 +1,90 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<!-- Hero Section -->
-<div class="container-fluid bg-light py-5 rounded-4 shadow-sm mb-5">
-    <div class="row align-items-center">
-        <div class="col-md-6 text-center text-md-start">
-            <h1 class="display-3 fw-bold mb-3">Order Effortlessly<br>with QR Table</h1>
-            <p class="lead text-muted mb-4">
-                Scan, order, and enjoy your meal—right from your table. Fast, contactless, and convenient dining experience.
-            </p>
-            <a href="/Menu" class="btn btn-primary btn-lg px-4">View Menu</a>
-        </div>
-        <div class="col-md-6 text-center">
-            <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80"
-                 alt="Ordering Food at Table"
-                 class="img-fluid rounded-4 shadow"
-                 style="max-height: 350px;" />
-        </div>
+<style>
+    .hero-section {
+        background-image: url('/images/homepage1.png');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        height: 500px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .hero-section::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4); /* semi-transparent overlay */
+            z-index: 1;
+        }
+
+    .hero-content {
+        position: relative;
+        z-index: 2;
+        color: #ffffff; /* white text */
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* optional contrast */
+    }
+</style>
+
+<div class="hero-section text-center">
+    <div class="hero-content">
+        <h1 class="display-4 fw-bold">Delicious Food and Fresh Food</h1>
+        <p class="lead">Order your favorite meals in just a few clicks.</p>
+        <a asp-controller="Tables" class="btn btn-primary" >Scan Now</a>
     </div>
 </div>
 
-<!-- Features Section -->
-<div class="container mb-5">
-    
-        
-        
+<style>
+	.container img {
+		width: 100%;
+		height: auto;
+		border-radius: 10px;
+	}
 
-<!-- Ambiance Section -->
-<div class="container mb-5">
-    <div class="row align-items-center">
-        <div class="col-md-6 mb-4 mb-md-0">
-            <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80"
-                 alt="Restaurant Ambiance"
-                 class="img-fluid rounded-4 shadow"
-                 style="max-height: 350px;" />
+	.container h5 {
+		margin-top: 10px;
+		font-weight: bold;
+	}
+
+    .container:hover {
+        transform: scale(1.05);
+    }
+</style>
+
+<h2 class="mt-5 mb-3 text-center">Explore Categories</h2>
+<div class="container text-center mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-3 mb-4">
+            <h5 class="mt-2">Pizza</h5>
+            <img src="/images/pizza4.jpg"  alt="Pizza" />
+           
         </div>
-        <div class="col-md-6">
-            <h3 class="fw-bold mb-3">Experience Our Ambiance</h3>
-            <p class="text-muted fs-5">
-                Enjoy a modern dining atmosphere designed for comfort and convenience. Our digital ordering system lets you focus on what matters—great food and great company.
-            </p>
+        <div class="col-md-3 mb-4">
+            <h5 class="mt-2">Burgers</h5>
+            <img src="/images/burger2.jpg" alt="Burgers" />
+            
         </div>
+        <div class="col-md-3 mb-4">
+            <h5 class="mt-2">Salads</h5>
+            <img src="/images/salad33.jpg" alt="Burgers" />
+
+        </div>
+        <div class="col-md-3 mb-4">
+            <h5 class="mt-2">Drinks</h5>
+            <img src="/images/drink1.jpg" alt="Burgers" />
+
+        </div>
+        
+        
     </div>
-</div>
-
-<!-- Call to Action -->
-<div class="container text-center mb-5">
-    <a href="/Menu" class="btn btn-success btn-lg px-5 py-3 shadow">Start Your Order</a>
 </div>
 
 
